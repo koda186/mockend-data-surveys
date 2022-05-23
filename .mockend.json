@@ -27,6 +27,9 @@
         "Underwater cable Surveys"
       ]
     },
+    "files": {
+       "int": { "min": 0, "max": 25 }
+    },
     "status": {
       "string": [
         "Active",

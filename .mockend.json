@@ -1,38 +1,34 @@
 {
   "Post": {
     "UUID": {
-       "int": { "min": 0, "max": 1000000 }
+       "int": { "min": 0, "max": 100000 }
     },
-    "type": {
+    "name": {
       "string": [
-        "bathymetry"
+        "Belton Dam",
+        "Lake Travis 338",
+        "TD Lake Travis SKLT 1",
+        "Lake Travis",
+        "Lake Donahue",
+        "Keegan Dam",
+        "Wellington Dam",
+        "Kein River",
+        "Elda 331",
+        "Pacifico Reef",
+        "Pacifico South",
+        "Guerra 229"
       ]
     },
-    "ext": {
+    "description": {
       "string": [
-        "xyz"
+        "Surveys of Lake",
+        "Surveys of pipelines",
+        "Wind Farm Survey",
+        "Underwater cable Surveys"
       ]
     },
-    "EPSG": {
-      "string": [
-        "none"
-      ]
-    },
-    "Edit": {
-      "string": [
-        "edit"
-      ]
-    },
-    "Viz": {
-      "string": [
-        "true",
-        "false"
-      ]
-    },
-    "DirName": {
-      "string": [
-        "xyz"
-      ]
+    "files": {
+       "int": { "min": 0, "max": 25 }
     },
     "status": {
       "string": [

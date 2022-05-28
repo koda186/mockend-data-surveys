@@ -35,6 +35,20 @@
         "Active",
         "Inactive"
       ]
+    },
+    "platformType": {
+      "string": [
+        "AUV",
+        "ROV",
+        "Side Scan Sonar",
+        "Single Beam Bathymetry",
+        "Topographic Lidar",
+        "Synthetic Aperture Sonar (SAS)",
+        "Topographic Lidar",
+        "Bathymetric Lidar",
+        "Magnetometer",
+        "SBP"
+      ]
     }
   }
 }

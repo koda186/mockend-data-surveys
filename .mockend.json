@@ -56,8 +56,11 @@
         "TCARTA"
       ]
     },
-        "coordinates": {
-       "string": ["lat", {"int": 123245}, "long", {"int": 123245}]
+    "lat": {
+       "int": 432536
+    },
+    "long": {
+       "int": 34343
     }
   }
 }

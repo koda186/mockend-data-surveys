@@ -55,6 +55,9 @@
         "BP",
         "TCARTA"
       ]
+    },
+        "coordinates": {
+       "string": ["lat", {"int": 123245}, "long", {"int": 123245}]
     }
   }
 }

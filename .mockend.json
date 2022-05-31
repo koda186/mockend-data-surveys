@@ -50,7 +50,7 @@
         "SBP"
       ]
     },
-     "Customer": {
+     "customer": {
       "string": [
         "BP",
         "TCARTA"

@@ -49,6 +49,12 @@
         "Magnetometer",
         "SBP"
       ]
+    },
+     "Customer": {
+      "string": [
+        "BP",
+        "TCARTA"
+      ]
     }
   }
 }
